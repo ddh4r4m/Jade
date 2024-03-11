@@ -1,0 +1,36 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "rkstrdee@gmail.com",
+                "Name": "Dharam Dhurandhar"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Jade_kde",
+        "Description": "A Green Jade, Manjaro's theme inspired Global theme",
+        "Id": "Jade_kde",
+        "Version": "3.0",
+        "License": "GPL-2.0+",
+        "Website": "https://github.com/rkstrdee/Stone"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://colorschemes.knsrc/api.kde-look.org/1761035",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1761036",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1761037",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1761038",
+        "kns://icons.knsrc/api.kde-look.org/1359276",
+        "kns://wallpaper.knsrc/api.kde-look.org/1761034",
+        "kns://wallpaper.knsrc/api.kde-look.org/1761033",
+        "kns://wallpaper.knsrc/api.kde-look.org/1761032",
+        "kns://wallpaper.knsrc/api.kde-look.org/1757401",
+        "kns://wallpaper.knsrc/api.kde-look.org/1541308",
+        "kns://wallpaper.knsrc/api.kde-look.org/1598039",
+        "kns://aurorae.knsrc/api.kde-look.org/1757391"
+    ]
+}
